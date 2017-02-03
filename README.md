@@ -1,3 +1,5 @@
+Template taken from online
+
 #Flatfy - Theme | New Version!
 
 ##Responsive Mobile & Flat Design 
